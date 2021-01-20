@@ -1,5 +1,5 @@
 # Overloading
-This can be used to overload a function or class.
+This can be used to overload a function or class.\n
 It has DNC type which is used to declare type a don't care
 You can use Default as type to generalize a function if nothing suit the call
 
