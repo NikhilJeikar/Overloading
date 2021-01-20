@@ -1,5 +1,6 @@
 # Overloading
-This can be used to overload a function or class.\n
+<pre>
+This can be used to overload a function or class.
 It has DNC type which is used to declare type a don't care
 You can use Default as type to generalize a function if nothing suit the call
 
@@ -28,3 +29,4 @@ A(1)
 A(10, 1)
 A(1.2)
 A("a")
+<\pre>
